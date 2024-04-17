@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An adapted version of the record plugin for mousetrap",
   "main": "mousetrap-record.js",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sethyuan/orca-mousetrap-record.git"
